@@ -1,4 +1,2 @@
-# Welcome to the Zero day Project
-
-This project aims to tackle the issue of Zero day vulnerability
-Ohh, I am updating this file online!
+This file is mandatory in all ALX School projects
+I updated it the interface
